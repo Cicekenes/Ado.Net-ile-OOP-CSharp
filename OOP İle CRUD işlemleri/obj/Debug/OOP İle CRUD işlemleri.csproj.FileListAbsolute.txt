@@ -1,0 +1,10 @@
+C:\Users\bmene\source\repos\OOP İle CRUD işlemleri\OOP İle CRUD işlemleri\bin\Debug\OOP İle CRUD işlemleri.exe.config
+C:\Users\bmene\source\repos\OOP İle CRUD işlemleri\OOP İle CRUD işlemleri\bin\Debug\OOP İle CRUD işlemleri.exe
+C:\Users\bmene\source\repos\OOP İle CRUD işlemleri\OOP İle CRUD işlemleri\bin\Debug\OOP İle CRUD işlemleri.pdb
+C:\Users\bmene\source\repos\OOP İle CRUD işlemleri\OOP İle CRUD işlemleri\obj\Debug\OOP İle CRUD işlemleri.csprojAssemblyReference.cache
+C:\Users\bmene\source\repos\OOP İle CRUD işlemleri\OOP İle CRUD işlemleri\obj\Debug\OOP_İle_CRUD_işlemleri.Form1.resources
+C:\Users\bmene\source\repos\OOP İle CRUD işlemleri\OOP İle CRUD işlemleri\obj\Debug\OOP_İle_CRUD_işlemleri.Properties.Resources.resources
+C:\Users\bmene\source\repos\OOP İle CRUD işlemleri\OOP İle CRUD işlemleri\obj\Debug\OOP İle CRUD işlemleri.csproj.GenerateResource.cache
+C:\Users\bmene\source\repos\OOP İle CRUD işlemleri\OOP İle CRUD işlemleri\obj\Debug\OOP İle CRUD işlemleri.csproj.CoreCompileInputs.cache
+C:\Users\bmene\source\repos\OOP İle CRUD işlemleri\OOP İle CRUD işlemleri\obj\Debug\OOP İle CRUD işlemleri.exe
+C:\Users\bmene\source\repos\OOP İle CRUD işlemleri\OOP İle CRUD işlemleri\obj\Debug\OOP İle CRUD işlemleri.pdb
